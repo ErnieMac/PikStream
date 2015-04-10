@@ -1,2 +1,2 @@
 # PikStream
-# Hybrid photo gallery app built on telerik platform
+Hybrid photo gallery app built on telerik platform
